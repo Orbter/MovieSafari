@@ -1,7 +1,6 @@
 # MovieSafari - Your Ultimate Streaming Destination
 
 Visit [MovieSafari](https://www.moviesafaris.com)
-Password: MikeRoss
 
 Welcome to MovieSafari, your go-to streaming platform to explore an extensive collection of movies, TV shows, and anime from around the world, all available for free. With MovieSafari, you can embark on a cinematic journey like never before.
 
